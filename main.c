@@ -8,7 +8,6 @@ int main() {
 
 
 	test02();
-	test03();
 
 }
 

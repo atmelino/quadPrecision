@@ -11,7 +11,7 @@ void bisection(float *x, float a, float b, int *itr)
 	printf("Iteration no. %3d X = %7.5f\n", *itr, *x);
 }
 
-void main() {
+int bs01() {
 	int itr = 0, maxmitr;
 	float x, a, b, allerr, x1;
 	printf(

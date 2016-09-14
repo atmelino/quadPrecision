@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main() {
+int test02() {
 	__float128 r;
 	int prec = 20;
 	int width = 46;

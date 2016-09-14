@@ -1,8 +1,9 @@
-#include <quadmath.h>
+//#include <quadmath.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include "quadmath.h"
 
-int main() {
+int test01() {
 	__float128 r;
 	char* message = "quadmath test 01";
 	printf("%s\n", message);

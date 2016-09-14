@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main() {
+int gr01() {
 	__float128 c, c2, c2inv;
 	int prec = 20;
 	int width = 46;

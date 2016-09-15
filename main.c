@@ -7,8 +7,16 @@ int main() {
 
 
 
-	test02();
+	//test02();
 
+	//gr01();
+
+	//bs01();
+
+	gr02();
+
+
+	return 1;
 }
 
 

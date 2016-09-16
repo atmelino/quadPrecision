@@ -13,7 +13,9 @@ int main() {
 
 	//bs01();
 
-	gr02();
+	//gr02();
+
+	gr03();
 
 
 	return 1;

@@ -15,7 +15,9 @@ int main() {
 
 	//gr02();
 
-	gr03();
+	//gr03();
+
+	gr04();
 
 
 	return 1;
